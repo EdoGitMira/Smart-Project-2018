@@ -3,4 +3,8 @@
 
 ![image](https://user-images.githubusercontent.com/49036361/116251458-f692f780-a76e-11eb-9749-e6163c50f133.png)
 
+
+
+https://industrial.omron.it/it/services-support/school-project/high-school/smart-project/smart-project-2018
+
 realizzato presso IIS castelli in collaborazione con https://github.com/marco-milanesi
