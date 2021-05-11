@@ -15,7 +15,7 @@ realizzato presso IIS castelli in collaborazione con [Milanesi Marco](https://gi
 
 ## per info:
 * Mirandola Edoardo -> edoardomirandola99@gmail.com
-* Mianesi Marco -> marco.milanesi.99@gmail.com
+* Milanesi Marco -> marco.milanesi.99@gmail.com
 
 ## Alcune pagine di simulazione
 * garage automatico a 6 posti
