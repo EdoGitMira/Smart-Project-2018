@@ -26,5 +26,5 @@ realizzato presso IIS castelli in collaborazione con [Milanesi Marco](https://gi
 ![image](https://user-images.githubusercontent.com/49036361/117540782-18af3400-b011-11eb-8f29-1d9260e6a1d7.png)
 * ascensore a quattro piani
 ![image](https://user-images.githubusercontent.com/49036361/117540764-fb7a6580-b010-11eb-9326-cfdc3a88363d.png)
-* simualzione degli ingressi e uscite sia digilati e analogici con la possibilità di visualizzare l'andamento tramite grafici
+* simualzione degli ingressi e uscite sia digitati che analogici con la possibilità di visualizzare l'andamento tramite grafici
 ![image](https://user-images.githubusercontent.com/49036361/117540736-d38b0200-b010-11eb-95b8-a800f6cccee1.png)
