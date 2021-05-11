@@ -16,8 +16,8 @@ progetto di un software per la simulazione virtuale di alcuni progetti per impar
 realizzato presso IIS castelli in collaborazione con [Milanesi Marco](https://github.com/marco-milanesi)
 
 ## per info:
-Mirandola Edoardo -> edoardomirandola99@gmail.com
-Mianesi Marco -> marco.milanesi.99@gmail.com
+* Mirandola Edoardo -> edoardomirandola99@gmail.com
+* Mianesi Marco -> marco.milanesi.99@gmail.com
 
 ## Alcune pagine di simulazione
 * garage automatico a 6 posti
