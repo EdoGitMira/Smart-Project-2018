@@ -5,15 +5,15 @@ progetto di un software per la simulazione virtuale di alcuni progetti per impar
 
 
 ## link per scaricare il progetto  
-https://drive.google.com/drive/folders/15QkoHX_MWbTS4g9VS5HAkZURG_wDiLfn?usp=sharing
+ [progetto completo](https://drive.google.com/drive/folders/15QkoHX_MWbTS4g9VS5HAkZURG_wDiLfn?usp=sharing)
 
 ## link per vedere video di presentazione 
-https://drive.google.com/file/d/1wESCkJlpj7JKzpyCZj7DaDG3rTnaejLH/view?usp=sharing
+[video di simulazione del progetto](https://drive.google.com/file/d/1wESCkJlpj7JKzpyCZj7DaDG3rTnaejLH/view?usp=sharing)
 
 ## pagina del progetto sito omron
-https://industrial.omron.it/it/services-support/school-project/high-school/smart-project/smart-project-2018
+[sito omron](https://industrial.omron.it/it/services-support/school-project/high-school/smart-project/smart-project-2018
 
-realizzato presso IIS castelli in collaborazione con https://github.com/marco-milanesi
+realizzato presso IIS castelli in collaborazione con [Milanesi Marco](https://github.com/marco-milanesi)
 
 
 ## Alcune pagine di simulazione
