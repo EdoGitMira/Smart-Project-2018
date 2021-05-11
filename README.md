@@ -2,7 +2,7 @@
 ![logo](https://user-images.githubusercontent.com/49036361/116251458-f692f780-a76e-11eb-9749-e6163c50f133.png)
 
 progetto di un software per la simulazione virtuale di alcuni progetti per imparare a programmare il plc sia a livello base che ad alto livello con alcuni progetti già implementati sia a livello di programazione che di simulazione
-realizzato presso IIS castelli in collaborazione con @github.com/marco-milanesi   
+realizzato presso IIS castelli in collaborazione con [Milanesi Marco](https://github.com/marco-milanesi)
 
 ## link per scaricare il progetto  
  [progetto completo](https://drive.google.com/drive/folders/15QkoHX_MWbTS4g9VS5HAkZURG_wDiLfn?usp=sharing)
