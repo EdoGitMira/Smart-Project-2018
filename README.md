@@ -14,8 +14,11 @@ realizzato presso IIS castelli in collaborazione con [Milanesi Marco](https://gi
 [sito omron](https://industrial.omron.it/it/services-support/school-project/high-school/smart-project/smart-project-2018)
 
 ## per info:
-* Mirandola Edoardo -> edoardomirandola99@gmail.com
-* Milanesi Marco -> marco.milanesi.99@gmail.com
+|<a href="https://github.com/EdoGitMira" target="_blank">**Edoardo Mirandola**</a> | <a href="https://marcomilanesi.com/" target="_blank">**Marco Milanesi**</a> | 
+| :---: |:---:|
+|[![Mirandola Edoardo]()](https://github.com/EdoGitMira) | [![MarcoMilanesi](https://avatars.githubusercontent.com/u/47824890?v=3&s=200)](https://marcomilanesi.com/)  | 
+| <a href="https://github.com/EdoGitMira" target="_blank">`github.com/EdoGitMira`</a> | <a href="https://github.com/marco-milanesi" target="_blank">`github.com/marco-milanesi`</a> |
+|edoardomirandola99@gmail.com|marco.milanesi.99@gmail.com|
 
 ## Alcune pagine di simulazione
 * garage automatico a 6 posti
